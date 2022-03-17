@@ -1,0 +1,30 @@
+0000000000000000000000000000000000000000 2702dde92a8b30c1b157d54051c7f063bc6a45e5 EC2 Default User <ec2-user@ip-172-31-3-182.ap-northeast-1.compute.internal> 1645074173 +0000	commit (initial): first commit
+2702dde92a8b30c1b157d54051c7f063bc6a45e5 28459acb6898ad87d7b4a90ade96c3e6829a113a 髙橋明 <mei.takahashi0406@gmail.com> 1645242731 +0000	commit: 03 create categories table
+28459acb6898ad87d7b4a90ade96c3e6829a113a 28459acb6898ad87d7b4a90ade96c3e6829a113a 髙橋明 <mei.takahashi0406@gmail.com> 1645325887 +0000	checkout: moving from master to create_products_table
+28459acb6898ad87d7b4a90ade96c3e6829a113a 28459acb6898ad87d7b4a90ade96c3e6829a113a 髙橋明 <mei.takahashi0406@gmail.com> 1645676131 +0000	checkout: moving from create_products_table to master
+28459acb6898ad87d7b4a90ade96c3e6829a113a 28459acb6898ad87d7b4a90ade96c3e6829a113a 髙橋明 <mei.takahashi0406@gmail.com> 1645676183 +0000	checkout: moving from master to create_products_table
+28459acb6898ad87d7b4a90ade96c3e6829a113a 4fff42257fd37aceda6c47a877bd5378a11c71ca 髙橋明 <mei.takahashi0406@gmail.com> 1645676284 +0000	commit: add product
+4fff42257fd37aceda6c47a877bd5378a11c71ca 28459acb6898ad87d7b4a90ade96c3e6829a113a 髙橋明 <mei.takahashi0406@gmail.com> 1645676306 +0000	checkout: moving from create_products_table to master
+28459acb6898ad87d7b4a90ade96c3e6829a113a 28459acb6898ad87d7b4a90ade96c3e6829a113a 髙橋明 <mei.takahashi0406@gmail.com> 1645676352 +0000	checkout: moving from master to create_login_system
+28459acb6898ad87d7b4a90ade96c3e6829a113a 90ae672f5cc533d523ced30d1c905a1002766197 髙橋明 <mei.takahashi0406@gmail.com> 1645679685 +0000	commit: add login
+90ae672f5cc533d523ced30d1c905a1002766197 4fff42257fd37aceda6c47a877bd5378a11c71ca 髙橋明 <mei.takahashi0406@gmail.com> 1645849710 +0000	checkout: moving from create_login_system to create_products_table
+4fff42257fd37aceda6c47a877bd5378a11c71ca f1d37c63553bfd1db3ac3dc91e0a85f3bac14f01 髙橋明 <mei.takahashi0406@gmail.com> 1646274594 +0000	commit: 04 create products table
+f1d37c63553bfd1db3ac3dc91e0a85f3bac14f01 28459acb6898ad87d7b4a90ade96c3e6829a113a 髙橋明 <mei.takahashi0406@gmail.com> 1646274644 +0000	checkout: moving from create_products_table to master
+28459acb6898ad87d7b4a90ade96c3e6829a113a f1d37c63553bfd1db3ac3dc91e0a85f3bac14f01 髙橋明 <mei.takahashi0406@gmail.com> 1646274748 +0000	merge create_products_table: Fast-forward
+f1d37c63553bfd1db3ac3dc91e0a85f3bac14f01 90ae672f5cc533d523ced30d1c905a1002766197 髙橋明 <mei.takahashi0406@gmail.com> 1646274859 +0000	checkout: moving from master to create_login_system
+90ae672f5cc533d523ced30d1c905a1002766197 90ae672f5cc533d523ced30d1c905a1002766197 髙橋明 <mei.takahashi0406@gmail.com> 1646278996 +0000	checkout: moving from create_login_system to use_css_framework
+90ae672f5cc533d523ced30d1c905a1002766197 90ae672f5cc533d523ced30d1c905a1002766197 髙橋明 <mei.takahashi0406@gmail.com> 1646280479 +0000	checkout: moving from use_css_framework to create_login_system
+90ae672f5cc533d523ced30d1c905a1002766197 90ae672f5cc533d523ced30d1c905a1002766197 unknown <User@PCNM550RAW.(none)> 1647429485 +0900	checkout: moving from create_login_system to create_login_system
+90ae672f5cc533d523ced30d1c905a1002766197 e1a5697dd17fc1ae1d6462648bfd3cced1c504fd 髙橋　明 <mei.takahashi0406@gmail.com> 1647430246 +0900	commit: app.blade.php 更新
+e1a5697dd17fc1ae1d6462648bfd3cced1c504fd f1d37c63553bfd1db3ac3dc91e0a85f3bac14f01 髙橋　明 <mei.takahashi0406@gmail.com> 1647430306 +0900	checkout: moving from create_login_system to create_products_table
+f1d37c63553bfd1db3ac3dc91e0a85f3bac14f01 34e97e530279f8afecdf54a72338f069beae568a 髙橋　明 <mei.takahashi0406@gmail.com> 1647441163 +0900	commit: 04 create products table 1
+34e97e530279f8afecdf54a72338f069beae568a e1a5697dd17fc1ae1d6462648bfd3cced1c504fd 髙橋　明 <mei.takahashi0406@gmail.com> 1647441210 +0900	checkout: moving from create_products_table to create_login_system
+e1a5697dd17fc1ae1d6462648bfd3cced1c504fd 90ae672f5cc533d523ced30d1c905a1002766197 髙橋　明 <mei.takahashi0406@gmail.com> 1647481241 +0900	checkout: moving from create_login_system to use_css_framework
+90ae672f5cc533d523ced30d1c905a1002766197 9d44e155deb1deb28f0e8af55dcae2b0d9c58a21 髙橋　明 <mei.takahashi0406@gmail.com> 1647483628 +0900	commit: 06 use css framework 1
+9d44e155deb1deb28f0e8af55dcae2b0d9c58a21 9d44e155deb1deb28f0e8af55dcae2b0d9c58a21 髙橋　明 <mei.takahashi0406@gmail.com> 1647483711 +0900	checkout: moving from use_css_framework to add_header
+9d44e155deb1deb28f0e8af55dcae2b0d9c58a21 ecc54960e4d4a80f6b15dc14c11949fcf0b7f829 髙橋　明 <mei.takahashi0406@gmail.com> 1647485793 +0900	commit: 07 add header 1
+ecc54960e4d4a80f6b15dc14c11949fcf0b7f829 ecc54960e4d4a80f6b15dc14c11949fcf0b7f829 髙橋　明 <mei.takahashi0406@gmail.com> 1647485870 +0900	checkout: moving from add_header to add_footer
+ecc54960e4d4a80f6b15dc14c11949fcf0b7f829 d370525770aeabf4ffa4c5b173fa7894da7392c9 髙橋　明 <mei.takahashi0406@gmail.com> 1647486456 +0900	commit: 08 add footer 1
+d370525770aeabf4ffa4c5b173fa7894da7392c9 d370525770aeabf4ffa4c5b173fa7894da7392c9 髙橋　明 <mei.takahashi0406@gmail.com> 1647486520 +0900	checkout: moving from add_footer to create_reviews
+d370525770aeabf4ffa4c5b173fa7894da7392c9 5f544a8ba05248c3b71707c84319296779a8563f 髙橋　明 <mei.takahashi0406@gmail.com> 1647489701 +0900	commit: 09 create reviews 1
+5f544a8ba05248c3b71707c84319296779a8563f f1d37c63553bfd1db3ac3dc91e0a85f3bac14f01 髙橋　明 <mei.takahashi0406@gmail.com> 1647490197 +0900	checkout: moving from create_reviews to master
